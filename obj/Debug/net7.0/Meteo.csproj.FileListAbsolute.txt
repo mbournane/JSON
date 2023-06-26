@@ -1,0 +1,17 @@
+C:\WildSchoul_Formation\S05\Quests\JSON\bin\Debug\net7.0\Meteo.exe
+C:\WildSchoul_Formation\S05\Quests\JSON\bin\Debug\net7.0\Meteo.deps.json
+C:\WildSchoul_Formation\S05\Quests\JSON\bin\Debug\net7.0\Meteo.runtimeconfig.json
+C:\WildSchoul_Formation\S05\Quests\JSON\bin\Debug\net7.0\Meteo.dll
+C:\WildSchoul_Formation\S05\Quests\JSON\bin\Debug\net7.0\Meteo.pdb
+C:\WildSchoul_Formation\S05\Quests\JSON\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.AssemblyInfo.cs
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.csproj.CopyComplete
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.dll
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\refint\Meteo.dll
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.pdb
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\Meteo.genruntimeconfig.cache
+C:\WildSchoul_Formation\S05\Quests\JSON\obj\Debug\net7.0\ref\Meteo.dll
